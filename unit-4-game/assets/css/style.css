@@ -1,0 +1,57 @@
+h1 span {
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 25px
+}
+
+h2 {
+   text-align: center;
+   text-decoration: underline;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#para {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+#score {
+    text-align: center;
+}
+
+#crystals img {
+    width: 150px;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+    margin-left: 50px;
+}
+
+#target {
+    text-align: center;
+    font-size: 35px;
+}
+
+#wins {
+    color: green;
+    font-size: 20px;
+    
+    
+}
+
+#loses {
+    color: red;
+    font-size: 20px
+}
+
+
+
+
